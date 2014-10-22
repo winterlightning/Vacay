@@ -10,5 +10,8 @@ Solve the problem of tracking vacation days of the past and future.
 
 Key Features
 
--Instant login via gmail -Automatic accumulation of vacation days as times pass from a formula the administrator can setup such as 1 vacation day per 20 work days or 1 vacation day per month. -Take into account public holidays and set the firm's policy whether those days are celebrated -Allow employees to enter in vacation days and sick days
+-Instant login via gmail 
+-Automatic accumulation of vacation days as times pass from a formula the administrator can setup such as 1 vacation day per 20 work days or 1 vacation day per month. 
+-Take into account public holidays and set the firm's policy whether those days are celebrated 
+-Allow employees to enter in vacation days and sick days
 
